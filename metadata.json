@@ -1,0 +1,8 @@
+{
+  "name": "Remix PujoWalk Rewards",
+  "description": "Walk More. Explore Pandals. Earn Rewards. Track Durga Puja pandal walking distance and earn real INR rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
